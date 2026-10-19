@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://joaquinfdez.github.io/sitemap.xml
